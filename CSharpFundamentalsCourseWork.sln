@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateStudentGrades_P1",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateStudentGrades_P2", "CalculateStudentGrades_P2\CalculateStudentGrades_P2.csproj", "{DC12F2A7-6ADB-4EFA-9A62-96E4E8087DEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinFlipChallenge", "CoinFlipChallenge\CoinFlipChallenge.csproj", "{82E5E98D-6B7B-41C8-9BBE-151B3E0F68A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzChallenge", "FizzBuzzChallenge\FizzBuzzChallenge.csproj", "{CFC9B56D-3A78-4D4D-84FE-EF8B5A4B6F6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{DC12F2A7-6ADB-4EFA-9A62-96E4E8087DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC12F2A7-6ADB-4EFA-9A62-96E4E8087DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC12F2A7-6ADB-4EFA-9A62-96E4E8087DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E5E98D-6B7B-41C8-9BBE-151B3E0F68A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E5E98D-6B7B-41C8-9BBE-151B3E0F68A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E5E98D-6B7B-41C8-9BBE-151B3E0F68A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E5E98D-6B7B-41C8-9BBE-151B3E0F68A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFC9B56D-3A78-4D4D-84FE-EF8B5A4B6F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC9B56D-3A78-4D4D-84FE-EF8B5A4B6F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC9B56D-3A78-4D4D-84FE-EF8B5A4B6F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC9B56D-3A78-4D4D-84FE-EF8B5A4B6F6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
