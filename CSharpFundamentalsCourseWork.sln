@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinFlipChallenge", "CoinFl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzChallenge", "FizzBuzzChallenge\FizzBuzzChallenge.csproj", "{CFC9B56D-3A78-4D4D-84FE-EF8B5A4B6F6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermissionsExercise", "PermissionsExercise\PermissionsExercise.csproj", "{C9D584B5-5CFE-4601-BE1B-27FF0BC93EDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CFC9B56D-3A78-4D4D-84FE-EF8B5A4B6F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFC9B56D-3A78-4D4D-84FE-EF8B5A4B6F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFC9B56D-3A78-4D4D-84FE-EF8B5A4B6F6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9D584B5-5CFE-4601-BE1B-27FF0BC93EDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9D584B5-5CFE-4601-BE1B-27FF0BC93EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9D584B5-5CFE-4601-BE1B-27FF0BC93EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9D584B5-5CFE-4601-BE1B-27FF0BC93EDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
