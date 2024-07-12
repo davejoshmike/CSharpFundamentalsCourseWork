@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzChallenge", "FizzBu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermissionsExercise", "PermissionsExercise\PermissionsExercise.csproj", "{C9D584B5-5CFE-4601-BE1B-27FF0BC93EDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoPetsExercise", "ContosoPetsExercise\ContosoPetsExercise.csproj", "{5E6192BA-AE5D-46A7-8284-AAC5E6BF467E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C9D584B5-5CFE-4601-BE1B-27FF0BC93EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9D584B5-5CFE-4601-BE1B-27FF0BC93EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9D584B5-5CFE-4601-BE1B-27FF0BC93EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E6192BA-AE5D-46A7-8284-AAC5E6BF467E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E6192BA-AE5D-46A7-8284-AAC5E6BF467E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E6192BA-AE5D-46A7-8284-AAC5E6BF467E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E6192BA-AE5D-46A7-8284-AAC5E6BF467E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
